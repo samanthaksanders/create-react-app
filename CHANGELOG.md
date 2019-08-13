@@ -25,7 +25,7 @@ v3.1.0 is a minor release that adds ESLint 6 support as well as experimental sup
 
 - `react-scripts`
   - [#7176](https://github.com/facebook/create-react-app/pull/7176) Fix RegExp from navigateFallbackBlacklist (workbox) ([@nuragic](https://github.com/nuragic))
-  - [#7378](https://github.com/facebook/create-react-app/pull/7378) Update url-loader to 2.0.1 ([@heyimalex](https://github.com/heyimalex))
+  - [#7378](https://github.com/facebook/create-react-app/pull/7378) Update url-loader to 2.1.0 ([@heyimalex](https://github.com/heyimalex))
 - `eslint-config-react-app`, `react-error-overlay`, `react-scripts`
   - [#7415](https://github.com/facebook/create-react-app/pull/7415) Add ESLint 6 support ([@mrmckeb](https://github.com/mrmckeb))
 
